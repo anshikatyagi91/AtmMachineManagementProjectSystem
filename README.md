@@ -77,7 +77,7 @@ Prints all transactions stored in HashMap.
 4️. MainClass (Driver Class)
 Handles user interaction and ATM operations.
 Key Features:
-Validates ATM Number (12345) & PIN (123)
+Validates ATM Number (5432-8765-7634-6823) & PIN (6543)
 
 Displays Menu for Banking Operations
 
