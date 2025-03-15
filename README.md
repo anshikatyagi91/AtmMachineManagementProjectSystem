@@ -1,1 +1,1 @@
-# AtmMachineManagementProjectSystem
+# AtmMachineManagementSystem
